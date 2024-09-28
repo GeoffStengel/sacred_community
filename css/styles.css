@@ -120,3 +120,7 @@
               transform: rotateY(0deg);
     }
   }
+
+  .card_img{
+    width: 500px;
+  }
